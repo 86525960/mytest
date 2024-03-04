@@ -4,3 +4,4 @@ print('hello 你好世界')
 'add 2'
 a = 180
 
+b=10
